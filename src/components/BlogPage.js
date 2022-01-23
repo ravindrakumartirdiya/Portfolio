@@ -85,7 +85,7 @@ const BlogPage = () => {
 
 {
     Blogs.map(blog => {
-        <h3>padding</h3>
+        return <h3>padding</h3>
     })
 }
 </Grid>

@@ -97,7 +97,7 @@ const WorkPage = () => {
      <Main ref={ref}   variants={container} initial='hidden' animate='show'  >
          {
             Work.map( d => 
-            <h1>work on padding</h1>
+            <h1>work on progress</h1>
             )
          }
      </Main>
